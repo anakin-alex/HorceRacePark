@@ -20,7 +20,6 @@ public class CommandSelector extends AbstractCommandSelector {
                 this.command = command;
             }
         }
-        //return new InvalidCommand();
         return command;
     }
 

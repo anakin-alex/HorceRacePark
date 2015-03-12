@@ -20,4 +20,5 @@ public class Bill implements Comparable<Bill> {
     public String toString() {
         return "$" + denomination;
     }
+
 }

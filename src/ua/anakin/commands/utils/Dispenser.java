@@ -1,6 +1,5 @@
 package ua.anakin.commands.utils;
 
-import ua.anakin.Game;
 import ua.anakin.context.GameContext;
 import ua.anakin.model.Bill;
 

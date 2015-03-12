@@ -14,16 +14,8 @@ public class Horse {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public int getOdds() {
         return odds;
-    }
-
-    public void setOdds(int odds) {
-        this.odds = odds;
     }
 
     @Override
