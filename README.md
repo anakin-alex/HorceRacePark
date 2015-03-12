@@ -9,4 +9,4 @@ Valid commands are as follows:
 
 'W' or 'w' [1-7] - sets the winning horse number
 
-[1-7] <amount> - specifies the horse wagered on and the amount of the bet
+[1-7] [amount] - specifies the horse wagered on and the amount of the bet
